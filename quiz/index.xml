@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quizs on QUIKnowledge</title>
+    <link>~/Dropbox/QKwebsite/quiz/</link>
+    <description>Recent content in Quizs on QUIKnowledge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Sun, 27 Mar 2016 02:17:57 +0900</lastBuildDate>
+    <atom:link href="~/Dropbox/QKwebsite/quiz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>問題について</title>
+      <link>/~/Dropbox/QKwebsite/quiz/</link>
+      <pubDate>Sun, 27 Mar 2016 02:17:57 +0900</pubDate>
+      
+      <guid>/~/Dropbox/QKwebsite/quiz/</guid>
+      <description>
+
+&lt;h1 id=&#34;問題について:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;問題について&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

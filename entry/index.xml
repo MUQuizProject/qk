@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entries on QUIKnowledge</title>
+    <link>~/Dropbox/QKwebsite/entry/</link>
+    <description>Recent content in Entries on QUIKnowledge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <atom:link href="~/Dropbox/QKwebsite/entry/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/~/Dropbox/QKwebsite/entry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/~/Dropbox/QKwebsite/entry/</guid>
+      <description>
+
+&lt;h1 id=&#34;エントリーについて:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;エントリーについて&lt;/h1&gt;
+
+&lt;p&gt;本大会のエントリーは2016年7月1日から受け付けます．&lt;/p&gt;
+
+&lt;h2 id=&#34;エントリーの際の注意:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;エントリーの際の注意&lt;/h2&gt;
+
+&lt;h2 id=&#34;エントリーリスト:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;エントリーリスト&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rules on QUIKnowledge</title>
+    <link>~/Dropbox/QKwebsite/rule/</link>
+    <description>Recent content in Rules on QUIKnowledge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Fri, 18 Mar 2016 15:15:37 +0900</lastBuildDate>
+    <atom:link href="~/Dropbox/QKwebsite/rule/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ルールについて</title>
+      <link>/~/Dropbox/QKwebsite/rule/</link>
+      <pubDate>Fri, 18 Mar 2016 15:15:37 +0900</pubDate>
+      
+      <guid>/~/Dropbox/QKwebsite/rule/</guid>
+      <description>
+
+&lt;h1 id=&#34;ルール:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;ルール&lt;/h1&gt;
+
+&lt;p&gt;本大会のルールについて説明します．&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./general_rule.md&#34;&gt;全体ルール&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./answer_rule.md&#34;&gt;解答に関するルール&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
