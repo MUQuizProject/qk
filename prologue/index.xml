@@ -2,88 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prologues on QUIKnowledge</title>
-    <link>~/Dropbox/QKwebsite/prologue/</link>
+    <link>https://muquizproject.github.io/qk/prologue/</link>
     <description>Recent content in Prologues on QUIKnowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Sun, 27 Mar 2016 02:14:45 +0900</lastBuildDate>
-    <atom:link href="~/Dropbox/QKwebsite/prologue/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://muquizproject.github.io/qk/prologue/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>ご挨拶</title>
-      <link>/~/Dropbox/QKwebsite/prologue/</link>
+      <link>https://muquizproject.github.io/qk/prologue/</link>
       <pubDate>Sun, 27 Mar 2016 02:14:45 +0900</pubDate>
       
-      <guid>/~/Dropbox/QKwebsite/prologue/</guid>
-      <description>
-
-&lt;h1 id=&#34;ご挨拶:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;ご挨拶&lt;/h1&gt;
-
-&lt;p&gt;問題作成担当および大会ディレクターのウエサカと申します．&lt;/p&gt;
-
-&lt;p&gt;今回，QUIKnowledgeという大会を開催することになりました．
-&amp;ldquo;QUIKnowledge&amp;rdquo;は「クイック・ナレッジ」と読んで頂ければ幸いです．
-このページでは，この大会のコンセプトと，やりたいことについて説明させて頂きます．&lt;/p&gt;
-
-&lt;h2 id=&#34;タイトルについて:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;タイトルについて&lt;/h2&gt;
-
-&lt;p&gt;当大会のタイトルは&amp;rdquo;QUICK&amp;rdquo;と&amp;rdquo;Knowledge&amp;rdquo;の合成語です．(Cは意図的に抜いています．)
-&amp;ldquo;Knowledge&amp;rdquo;はもちろん知識のことで，
-&amp;ldquo;QUICK&amp;rdquo;という言葉には，&amp;rdquo;quick response&amp;rdquo;(早押し)の意味を込めています．
-つまりこの大会は，&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;早押しクイズの大会であり，&lt;/li&gt;
-&lt;li&gt;さらに「知識」ということを前に押し出す大会でもあります．&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ルールについて:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;ルールについて&lt;/h2&gt;
-
-&lt;p&gt;本大会は，&lt;strong&gt;最初の筆記クイズと敗者復活以外，すべて早押しクイズになります&lt;/strong&gt;．さらに，ルールも極めてシンプルです．&lt;/p&gt;
-
-&lt;h2 id=&#34;出題される問題について:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;出題される問題について&lt;/h2&gt;
-
-&lt;p&gt;本大会で出題する問題は，&lt;strong&gt;すべてこの文章を書いているウエサカが作成した問題&lt;/strong&gt; です．&lt;/p&gt;
-
-&lt;h3 id=&#34;出題コンセプトについて:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;出題コンセプトについて&lt;/h3&gt;
-
-&lt;p&gt;今回の問題作成については，以下のことに重きを置いています．&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;その分野に詳しい人ならば易しい〜中程度の難易度になるように問題を作る．よって，詳しくない人にとっては難しいと思われる可能性が高い．&lt;/li&gt;
-&lt;li&gt;次のタイプの問題は作成しない．
-
-&lt;ul&gt;
-&lt;li&gt;パラレル問題(「〜は〜ですが，…」という形の問題．)&lt;/li&gt;
-&lt;li&gt;あと一つを答えさせる問題．(「〜〜とは，XX，XX，XX，とあと一つは何でしょう？」)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;一方で，私の作成する問題のクセとして，次のようなことはあげられると思います．&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;問題文の長さは結構バラバラで，60字から160字ぐらい．&lt;/li&gt;
-&lt;li&gt;いつも学問ジャンルが7割，それ以外のジャンルが3割を基本に作っている．&lt;/li&gt;
-&lt;li&gt;あまり人名に偏らないようにするため，概念に関する問題が多くなりがち．&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;問題情報の公開:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;問題情報の公開&lt;/h3&gt;
-
-&lt;p&gt;こうした傾向の問題であるため，個人によって向き不向きが非常に大きく分かれるのではないかと思われます．
-そこで今回，&lt;strong&gt;当大会でどういう問題が出題されるのかについて，より詳細な情報を提示しよう&lt;/strong&gt; と思っております．&lt;/p&gt;
-
-&lt;p&gt;具体的には，5月末から6月はじめの段階で，以下の情報をこのウェブサイトにて告知する予定です．&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;問題のジャンル分け．ジャンルごとの問題出題数&lt;/strong&gt;．&lt;/li&gt;
-&lt;li&gt;サンプル問題50問．&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;他のスタッフから見た当大会の問題群の傾向&lt;/strong&gt;．&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;特に3番目の「他のスタッフから見た当大会の問題群の傾向」は，これまでにはあまりない形の情報公開の仕方ではないかと思っています．こうした情報がどれだけ参加者の役に立つかという実験の一環でもあります．&lt;/p&gt;
-
-&lt;p&gt;参加者の皆さんにおきましては，こうした情報をご覧になった上で，ご興味がありましたら参加して頂ければ幸いです．&lt;/p&gt;
-</description>
+      <guid>https://muquizproject.github.io/qk/prologue/</guid>
+      <description>ご挨拶 問題作成担当および大会ディレクターのウエサカと申します．
+今回，QUIKnowledgeという大会を開催することになりました． &amp;ldquo;QUIKnowledge&amp;rdquo;は「クイック・ナレッジ」と読んで頂ければ幸いです． このページでは，この大会のコンセプトと，やりたいことについて説明させて頂きます．
+タイトルについて 当大会のタイトルは&amp;rdquo;QUICK&amp;rdquo;と&amp;rdquo;Knowledge&amp;rdquo;の合成語です．(Cは意図的に抜いています．) &amp;ldquo;Knowledge&amp;rdquo;はもちろん知識のことで， &amp;ldquo;QUICK&amp;rdquo;という言葉には，&amp;rdquo;quick response&amp;rdquo;(早押し)の意味を込めています． つまりこの大会は，
+ 早押しクイズの大会であり， さらに「知識」ということを前に押し出す大会でもあります．  ルールについて 本大会は，最初の筆記クイズと敗者復活以外，すべて早押しクイズになります．さらに，ルールもシンプルなものにする予定でおります．
+出題される問題について 本大会で出題する問題は，すべてこの文章を書いているウエサカが作成した問題 です．
+出題コンセプトについて 今回の問題作成については，以下のことに重きを置いています．
+ その分野に詳しい人ならば易しい〜中程度の難易度になるように問題を作る．よって，詳しくない人にとっては難しいと思われる可能性が高い． 次のタイプの問題は作成しない．  パラレル問題(「〜は〜ですが，…」という形の問題．) あと一つを答えさせる問題．(「〜〜とは，XX，XX，XX，とあと一つは何でしょう？」)   一方で，私の作成する問題のクセとして，次のようなことはあげられると思います．
+ 問題文の長さは結構バラバラで，60字から160字ぐらい． いつも学問ジャンルが7割，それ以外のジャンルが3割を基本に作っている． あまり人名に偏らないようにするため，概念に関する問題が多くなりがち．  問題情報の公開 こうした傾向の問題であるため，個人によって向き不向きが非常に大きく分かれるのではないかと思われます． そこで今回，当大会でどういう問題が出題されるのかについて，より詳細な情報を提示しよう と思っております．
+具体的には，9月初旬の段階で，以下の情報をこのウェブサイトにて告知する予定です．
+ 問題のジャンル分け．ジャンルごとの問題出題数． サンプル問題50問． 他のスタッフから見た当大会の問題群の傾向．  特に3番目の「他のスタッフから見た当大会の問題群の傾向」は，これまでにはあまりない形の情報公開の仕方ではないかと思っています．こうした情報がどれだけ参加者の役に立つかという実験の一環でもあります．
+参加者の皆さんにおきましては，こうした情報をご覧になった上で，ご興味がありましたら参加して頂ければ幸いです．</description>
     </item>
     
   </channel>

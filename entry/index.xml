@@ -2,28 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entries on QUIKnowledge</title>
-    <link>~/Dropbox/QKwebsite/entry/</link>
+    <link>https://muquizproject.github.io/qk/entry/</link>
     <description>Recent content in Entries on QUIKnowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <atom:link href="~/Dropbox/QKwebsite/entry/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://muquizproject.github.io/qk/entry/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
-      <link>/~/Dropbox/QKwebsite/entry/</link>
+      <link>https://muquizproject.github.io/qk/entry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/~/Dropbox/QKwebsite/entry/</guid>
-      <description>
-
-&lt;h1 id=&#34;エントリーについて:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;エントリーについて&lt;/h1&gt;
-
-&lt;p&gt;本大会のエントリーは2016年7月1日から受け付けます．&lt;/p&gt;
-
-&lt;h2 id=&#34;エントリーの際の注意:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;エントリーの際の注意&lt;/h2&gt;
-
-&lt;h2 id=&#34;エントリーリスト:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;エントリーリスト&lt;/h2&gt;
-</description>
+      <guid>https://muquizproject.github.io/qk/entry/</guid>
+      <description> エントリーについて 事前エントリーは終了しました． 当日エントリーを受け付けます．事前エントリーをしなかった方でご参加になりたい方は，当日直接会場にお越し下さい．
+プレーイングスタッフについて (2016-11-14)プレーイングスタッフの受付は終了しました． プレーイングスタッフをお願いする方には後ほどメールをお送り致します．
+エントリーリスト (2016-12-17 0:20現在)
+ ミケランジェロ思考 きょーすたでぃ alocasia シュウ先輩 ろくかん あたなや トリビア男 マイケルソン森 あずけん 新発田 チャンショウ KingTower ＜キャンセル＞ 自主規制神 橙武者 ピンチョン ラキシス がうんたっち jso Moon Safariのステマ Wata じゅげむ 村上 彰 ジュン ナオキです… はろれた [æs]田神 ＜キャンセル＞ ＜キャンセル＞ えすてぃー wasleyite はるでぃん 30符4翻 藤原ナオキです。。。 カサイ NGY PATCHOULIKnowledge おーたけ ジャック・ウェルチ すいう ぺやごん 皇帝爆弾 ＜キャンセル＞ 原田 尚紀 TAKUMI ＜キャンセル＞ エレベーター ワンチャン予行練習 P4 鹿臣高司 Dorionis ＜キャンセル＞ ぷらんく いそねことは ＜キャンセル＞ ちゃい トリック GEN 風立市長 tamai くるとん TM ゴノレフ POM やまのてんし 齧歯 さつきちゃん 苦瓜 達郎 ぷよ ホッチキス  </description>
     </item>
     
   </channel>
