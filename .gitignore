@@ -2,3 +2,4 @@
 *.orig
 qk/
 .tags
+.DS_Store
